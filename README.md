@@ -25,3 +25,23 @@ To work on this project:
 * Integrate Bootstrap, angular libraries...
 * Separate project to multiple app
 * Create Contact App
+
+# Project structure
+```bash
+.
+├── 01.Documents
+├── 02.SourceCode
+│   ├── package.json
+│   ├── src
+│   │   ├── app
+│   │   │   ├── app.component.html
+│   │   │   ├── app.component.scss
+│   │   │   ├── app.component.ts
+│   │   │   └── app.module.ts
+│   │   ├── index.html
+│   │   └── main.ts
+│   ├── tsconfig.json
+│   ├── typings.json
+│   └── webpack.config.js
+└── README.md
+```bash
