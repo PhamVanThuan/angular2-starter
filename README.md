@@ -44,4 +44,4 @@ To work on this project:
 │   ├── typings.json
 │   └── webpack.config.js
 └── README.md
-```bash
+```
